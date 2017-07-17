@@ -5,14 +5,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <meta name="description" content="We are Energy Rating Professionals in 
-              Cairns Queensland. Call us for any help with your NatHERS or 
-              Section J reports.">
-        <meta name="keywords" content="Sustainability, Solutions,
-              Energy Efficient, Energy, Ratings, efficiency, assessments,
-              residential, commercial, NatHERS, ABSA, BDAV, Star Rating, 6 Stars,
-              OmniRate, Omni, Rate, Professionals">
-
+        <meta name="description" content="We are Energy Rating Professionals in Cairns Queensland. Call us for any help with your NatHERS or Section J reports.">
+        <meta name="keywords" content="Sustainability, Solutions, Energy Efficient, Energy, Ratings, efficiency, assessments, residential, commercial, NatHERS, ABSA, BDAV, Star Rating, 6 Stars, OmniRate, Omni, Rate, Professionals">
+        <meta name="copyright" content="Anthony Wratten 2017.  All rights reserved.">
+        
+        <link rel="shortcut icon" href="favicon.ico">
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -27,6 +24,6 @@
         <script src="js/holder.min.js" type="text/javascript"></script>
     </head>
     <body>
-
+        <div>TODO: Add Here</div>
     </body>
 </html>
